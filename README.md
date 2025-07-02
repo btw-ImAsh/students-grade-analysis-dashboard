@@ -5,6 +5,11 @@ This dashboard analyzes the relationship between student habits (such as study h
 
 It aims to uncover insights into which lifestyle factors most strongly influence academic outcomes, helping educators and students make data-driven decisions to improve learning outcomes.
 
+## Poster
+
+![poster](https://github.com/user-attachments/assets/fcac4d8a-0002-4a3c-a309-5f2ed0b0f67e)
+
+
 ## Data
 
 The analysis uses a dataset (student_habits_performance.csv) that includes:
@@ -57,6 +62,7 @@ Export-ready insights for presentations or reporting.
 - Attendance & other factors that can disturb study like part time jobs, internet quality.
 ## Visuals
 
+![Dashboard 1](https://github.com/user-attachments/assets/c21397b9-ae86-44e8-b78e-83313924351a)
 
 
 ## Authors
